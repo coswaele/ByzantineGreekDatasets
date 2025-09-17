@@ -22,12 +22,7 @@ These datasets were created to support experiments in:
 - Similarity detection in medieval Greek poems
 - Development of specialised transformer models (e.g., **DBBErt**)  
 
-More details can be found in the following publications:
-- [Swaelens, C., De Vos, I., Lefever, E. (2024). *Lemmatisation & Morphological Analysis of Unedited Greek: Do Simple Tasks Need Complex Solutions?* ACL 2024.](#)  
-- [Swaelens, C. (2024). *A Gold Standard and Benchmark for Semantic Similarity in Byzantine Greek Poetry.* LREC-COLING 2024.](#)  
-
-*(replace `#` with links once you upload the papers/preprints)*
-
+More details can be found in the publication on the bottom of the page
 ---
 
 ## 📑 Format
